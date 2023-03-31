@@ -1,0 +1,9 @@
+Python 3.8.10
+Matplotlib 3.4.3
+Flask 2.1.2
+Category Encoders 2.5.0
+requests 2.27.1
+json 2.0.9
+numpy 1.22.3
+pandas 1.3.3
+scikit-learn 1.0.2
